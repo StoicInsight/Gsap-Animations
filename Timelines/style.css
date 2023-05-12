@@ -3,13 +3,24 @@ body {
   background-color: rgb(14, 14, 14);
 }
 
-#app {
+.items {
   display: flex;
   flex-direction: column;
-  gap: 4rem;
+  gap: 2rem;
 }
 
-#app > img {
+.buttons {
+  padding-top: 3rem;
+}
+
+.buttons > button {
+  padding: 1rem;
+  background-color: white;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.items > img {
   max-width: 8rem;
 }
 
