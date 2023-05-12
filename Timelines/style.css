@@ -1,0 +1,21 @@
+ 
+body {
+  background-color: rgb(14, 14, 14);
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+#app > img {
+  max-width: 8rem;
+}
+
+.box {
+  background-color: red;
+  padding: 1rem;
+  max-width: 100px;
+  border-radius: 50%;
+}
