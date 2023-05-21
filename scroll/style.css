@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.div1, .div2 {
+  height: 100vh;
+}
+
+.div1 {
+  background-color: blue;
+}
+
+.div2 {
+  background-color: blueviolet;
+}
+
+.square {
+  width: 150px;
+  height: 150px;
+  background-color: chartreuse;
+}
