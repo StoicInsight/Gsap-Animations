@@ -19,3 +19,7 @@ body {
   height: 150px;
   background-color: chartreuse;
 }
+
+.red {
+  background-color: red;
+}
